@@ -1,0 +1,17 @@
+Json Web Token
+
+It's a stateless authentication mechanism, meaning an user input not stored in the cookies/ server memory.
+
+References:
+
+Jwt Implementation: https://www.youtube.com/watch?v=rBNOc4ymd1E&list=PLVz2XdJiJQxynOpTm0DuufOkfWHNamJsF&index=6&t=5s
+
+Latest: https://www.youtube.com/watch?v=R76S0tfv36w&t=979s  (Java Techie)
+
+Pagination: https://www.youtube.com/watch?v=Wa0GQwWwzJE&t=237s
+
+Note: We are using spring 3.0 and a lot of classes are deprecated..
+
+
+
+
